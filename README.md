@@ -1,1 +1,1 @@
-Simulação de compra de dólar incluindo uma taxa a ser paga no ato
+Exercício feito em aula acompanhado de melhorias e/ou modificações feitas por mim para testar meu aprendizado
